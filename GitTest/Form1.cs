@@ -26,5 +26,10 @@ namespace GitTest
         {
             MessageBox.Show("Hello World!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("who are you ?");
+        }
     }
 }
